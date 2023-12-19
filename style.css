@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(7, 0, 55);
+}
+
+.relogio {
+    display: flex;
+    gap: 2.5pc;
+    color: aliceblue;
+    padding-top: 25%;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 900;
+}
+
